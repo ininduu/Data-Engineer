@@ -1,4 +1,4 @@
-                                      HUBUNGAN ANTARA CURAH HUJAN DENGAN PRODUKSI PADI 
+                        HUBUNGAN ANTARA CURAH HUJAN DENGAN PRODUKSI PADI 
 ---
 
 Sebagai seorang mahasiswa TRPL yang mengambil peran sebagai *Data Engineer*, kami tidak hanya melihat proyek ini sebagai pengumpulan data semata, melainkan sebagai sebuah tantangan dalam membangun sistem **data pipeline** dan **arsitektur data** yang handal. Tugas utama kami adalah merancang dan mengimplementasikan infrastruktur yang mampu **mengumpulkan, memproses, serta menyajikan data secara efisien** agar dapat digunakan oleh *Data Scientist* maupun *Business Analyst* untuk analisis lebih lanjut.
