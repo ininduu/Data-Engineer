@@ -1,7 +1,7 @@
                                                     hubungan antara curah hujan dengan produksi padi 
 ---
 
-Sebagai seorang mahasiswa TRPL yang mengambil peran sebagai *Data Engineer*, saya tidak hanya melihat proyek ini sebagai pengumpulan data semata, melainkan sebagai sebuah tantangan dalam membangun sistem **data pipeline** dan **arsitektur data** yang andal. Tugas utama saya adalah merancang dan mengimplementasikan infrastruktur yang mampu **mengumpulkan, memproses, serta menyajikan data secara efisien** agar dapat digunakan oleh *Data Scientist* maupun *Business Analyst* untuk analisis lebih lanjut.
+Sebagai seorang mahasiswa TRPL yang mengambil peran sebagai *Data Engineer*, kami tidak hanya melihat proyek ini sebagai pengumpulan data semata, melainkan sebagai sebuah tantangan dalam membangun sistem **data pipeline** dan **arsitektur data** yang andal. Tugas utama kami adalah merancang dan mengimplementasikan infrastruktur yang mampu **mengumpulkan, memproses, serta menyajikan data secara efisien** agar dapat digunakan oleh *Data Scientist* maupun *Business Analyst* untuk analisis lebih lanjut.
 
 ### 🔹 1. Ingesti Data (*Data Ingestion*)
 
@@ -57,6 +57,6 @@ Output dari seluruh proses ini adalah sebuah dataset yang telah terstruktur deng
 
 ### 🔸 Kesimpulan
 
-Dari sudut pandang seorang Data Engineer, saya melihat hubungan antara curah hujan dan produksi padi bukan hanya dari sisi data, melainkan sebagai misi untuk **membangun jembatan data** antara dunia meteorologi dan pertanian. Tantangan utama bukan hanya teknis, tapi bagaimana saya bisa mengubah data mentah yang acak menjadi **aset informasi yang berharga** dan siap digunakan untuk kemajuan pertanian Indonesia.
+Dari sudut pandang seorang Data Engineer, kami melihat hubungan antara curah hujan dan produksi padi bukan hanya dari sisi data, melainkan sebagai misi untuk **membangun jembatan data** antara dunia meteorologi dan pertanian. Tantangan utama bukan hanya teknis, tapi bagaimana kami bisa mengubah data mentah yang acak menjadi **aset informasi yang berharga** dan siap digunakan untuk kemajuan pertanian Indonesia.
 
 ---
