@@ -1,6 +1,4 @@
                                                     hubungan antara curah hujan dengan produksi padi 
-Berikut ini versi kalimat yang sudah disusun ulang agar lebih enak dibaca dan menggunakan gaya bahasa mahasiswa TRPL (Teknologi Rekayasa Perangkat Lunak), serta ditambahkan poin-poin dan penjelasan yang sistematis:
-
 ---
 
 Sebagai seorang mahasiswa TRPL yang mengambil peran sebagai *Data Engineer*, saya tidak hanya melihat proyek ini sebagai pengumpulan data semata, melainkan sebagai sebuah tantangan dalam membangun sistem **data pipeline** dan **arsitektur data** yang andal. Tugas utama saya adalah merancang dan mengimplementasikan infrastruktur yang mampu **mengumpulkan, memproses, serta menyajikan data secara efisien** agar dapat digunakan oleh *Data Scientist* maupun *Business Analyst* untuk analisis lebih lanjut.
